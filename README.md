@@ -1,4 +1,4 @@
 Hotel allocation web app
 tech stack :- django,html,css
 
-the local host path :- https://localhost:8000
+the local host path :- http://localhost:8000
